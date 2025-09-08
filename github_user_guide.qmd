@@ -1,0 +1,20 @@
+---
+title: "How to Connect RStudio Projects with GitHub Repositories"
+format: pdf
+editor: visual
+---
+
+## R studio first:
+
+```{r}
+library(usethis)
+use_github()##
+```
+
+## Github First
+
+-   Go to Github - Create a repository
+
+-   Copy the url and create a new project - Check the version control (Use git)
+
+    -   Paste the repository url and create the project
